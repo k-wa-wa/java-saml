@@ -21,7 +21,7 @@
 	<modules>
 		<module>core</module>
 		<module>toolkit</module>
-		<module>samples</module>
+		<!-- <module>samples</module> -->
 	</modules>
 
 	<dependencyManagement>
